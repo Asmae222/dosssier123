@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/Users/dylan/tp-jenkins/src/main/java/fr/epsi/model/Panier.java">
+</file>
+<file name="/Users/dylan/tp-jenkins/src/main/java/fr/epsi/model/Article.java">
+</file>
+<file name="/Users/dylan/tp-jenkins/src/main/java/fr/epsi/service/CommandeService.java">
+</file>
+</checkstyle>
